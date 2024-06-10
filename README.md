@@ -7,19 +7,15 @@
 
 使用方法与原版相同，请勿fork本仓库！！！会被封！！！
 **要用Action跑请不要点Fork，点右上角-Use this template-后在自己的号下创建一个仓库来跑，用Fork跑的时间会积累到本仓库，会导致本仓库被封！！！复制好之后进行配置，然后在上方Actions中的AutoCheckin运行**
+## 使用方法 第一次用不知道怎么配置请看下面
+
+请参阅[文档](https://bili33.top/posts/MHYY-AutoCheckin-Manual-Gen2/)进行配置，有问题请在issue中提出。
 ## 免责声明
 
 一旦你fork了本仓库则代表你同意以下内容：
 
 - 所有账号被封禁的情况由使用者自行承担
 - 一切由使用本脚本造成的后果由使用者自行承担
-
-## 使用方法 第一次用不知道怎么配置请看下面
-
-请参阅[文档](https://bili33.top/posts/MHYY-AutoCheckin-Manual-Gen2/)进行配置，有问题请在issue中提出。
-
-如果本仓库被封了就来这里找https://git.bili33.top/GamerNoTitle/MHYY
-
 ![MHYY-AutoCheckin](https://socialify.git.ci/GamerNoTitle/MHYY/image?forks=1&language=1&name=1&owner=1&stargazers=1&theme=Light)
 
 [米哈云游（云原神）](https://mhyy.mihoyo.com/)自动签到脚本
